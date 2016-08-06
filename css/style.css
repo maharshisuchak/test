@@ -1,0 +1,29 @@
+.wrap {
+	
+	width: 80%;
+	margin: auto;
+	background: rgb(239, 239, 239);
+	overflow: hidden;
+	text-align: center;
+	}
+
+.content, aside {
+	 height: 500px;
+	 }
+
+.content {
+	background: skyblue;
+	float: left;
+	width: 65%;	
+	}
+
+aside {
+	background: rgb(190, 155, 150);;
+	float: right;
+	width: 30%;
+}
+
+aside ul {
+		list-style: lower-greek;
+		padding-left: 40px; 
+}

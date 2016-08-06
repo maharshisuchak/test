@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>MS3</title>
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+	<style>
+		.emphasis {
+			color: blue;
+		}
+
+		ul:first-of-type li:nth-child(2) {
+			color: brown;
+			font-style: italic;
+		}
+	</style>
+</head>
+<body>
+	
+<ul>
+			<li class="emphasis">Confidence </li>
+			<li> Calm </li>
+			<li class="emphasis"> Alcohol </li>
+			<li> Wit </li>
+</ul>
+
+<ul>
+			<li class="emphasis">Confidence </li>
+			<li> Calm </li>
+			<li class="emphasis"> Alcohol </li>
+			<li> Wit </li>
+</ul>
+
+<ul>
+			<li class="emphasis">Confidence </li>
+			<li> Calm </li>
+			<li class="emphasis"> Alcohol </li>
+			<li> Wit </li>
+</ul>
+
+<p>	<a href="MS Development">Back Home</a></p>
+
+</body>
+</html>

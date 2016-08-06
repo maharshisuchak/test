@@ -1,0 +1,39 @@
+<!doctype html>
+<html>
+	<head>
+		<title>MS Development</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" type="text/css" href="../css/style.css">
+	</head>
+
+	<body>
+
+		<div class="wrap">
+			<h1> Enticing <span>Characteristics </span> </h1>
+
+			<dl>
+				<dt>FEAR: </dt >
+				<dd><b>F</b>alse <b>E</b>vidence <b>A</b>ppearing <b>R</b>eal </dt>
+
+			</dl>
+			
+			<ol>
+				<li> Confidence </li>
+				<li> Calm </li>
+				<li> Alcohol </li>
+				<li> Wit </li>
+			</ol>
+			
+			<img src="../img/empresario.jpg" alt="empresario">
+
+			<p> <a href="MSD 2">MSD 2</a></p>
+			<p> <a href="MS3">MS3</a></p>
+			<p> <a href="MSD4">MSD4</a></p>
+			<div>
+				<h2>My New Section</h2>
+			</div>
+
+		</div>
+
+	</body>
+</html>

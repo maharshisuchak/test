@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>MSD 2</title>
+	</head>
+	<body>
+		<h1> My Thoughts </h1>
+		<p> Paragraph </p>
+		<h2> Psychological Thinking </h2>
+		<p>Paragraph on above </p>
+		<h3> Subheading </h3>
+		<blockquote>
+		<p>
+		Let my soul smile through my heart and my heart smile through my eyes, that I may scatter rich smiles in sad hearts.
+		</p>
+	</blockquote>
+	<p><a href="MS Development" > Back to Home</a></p>
+	</body>
+</html>
